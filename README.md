@@ -59,6 +59,7 @@ Treat these as lead sources, not proof of legitimacy. Gold badges and "Verified"
 - [Europages](https://www.europages.com) — European B2B directory; handy if your buyers or secondary suppliers sit in the EU.
 - [1688](https://www.1688.com) — Alibaba's domestic wholesale site (Chinese). Reverse-search a product here to see if your "factory" is actually buying from someone else.
 - [DHgate](https://www.dhgate.com) — Smaller-lot wholesale marketplace; fine for test orders, thin on deep factory due diligence data.
+- [GZWM](https://guangzhouwholesalemarket.com) — Verified vendor directory for China's physical wholesale markets (Baiyun Leather City, Zhanxi Shoes, Kinbo, Nanyou) with stall-level booth details; paid membership unlocks direct supplier WeChat contacts.
 
 ---
 
